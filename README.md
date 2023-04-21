@@ -32,4 +32,4 @@ Simulations on mouse data
 KronRLS_settingA1_mouse.py is for running simulations in LOOCV conditions.
 KronRLS_settingC1_mouse.py is for running simulations in LmiTOCV conditions.
 ## Citation
-Shakyawar S, Southekal S, Guda C. (2022). mintRULS: Prediction of miRNA-mRNA target site interactions using regularized least square method. Genes, 13(9), 1528. https://doi.org/10.3390/genes13091528
+Shakyawar S, Southekal S, Guda C. (2022). [mintRULS: Prediction of miRNA-mRNA target site interactions using regularized least square method](https://www.mdpi.com/2073-4425/13/9/1528). Genes, 13(9), 1528. https://doi.org/10.3390/genes13091528
